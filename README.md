@@ -3,7 +3,7 @@
 - dataset
   - Save datasets from AI-Hub in this directory
     
-- make_data
+- make_dataset
   - make_df.py
   - make_data.py
 
